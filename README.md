@@ -39,7 +39,7 @@ Statistics of the NestedClinBr corpus:
 
 | Item      | Training   | Test      | Total     |
 |-----------|------------|-----------|-----------|
-|Entity<td colspan=3>Problem   |
+|Entity<td colspan=3>Problem 
 | Nested    | 315 (72.92%) | 117 (27.08%) | 432     |
 | Discontinuous | 80 (65.04%) | 43 (34.96%) | 123 |
 | Total     | 1,110 (77.19%) | 328 (22.81%) | 1,438 |
@@ -49,7 +49,7 @@ Statistics of the NestedClinBr corpus:
 | Discontinuous | 4 (100%) | 0 (0%) | 4 |
 | Total     | 761 (78.05%) | 214 (21.95%) | 975 |
 | Entity avg. length | 2.1 | 2.1 | - |
-||Entity<td colspan=3> Test|
+|Entity<td colspan=3> Test|
 | Nested    | 15 (71.43%) | 6 (28.57%) | 21 |
 | Discontinuous | 0 (0%) | 0 (0%) | 0 |
 | Total     | 772 (75.98%) | 244 (24.02%) | 1,016 |
