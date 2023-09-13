@@ -19,6 +19,10 @@ Treatment | Mentions relating to any procedure or intervention used to treat pro
 Test | Used to detect and evaluate problems (such as diagnostic procedures and physical examination), also including the location (body part), when available in the text. | Phenomena, Physiology | HDL, potassium, cardiac catheterization, myocardial scintigraphy.
 Anatomy | Refers to body location, region, organ or organ component. | Anatomy | Heart valves, left hemithorax, mitral.
 
+Percentage of entities:
+
+<img src="./img/entidades-nerstedclinbr.png" alt="Example" width="80%">
+
 ### IAA - Inter-Annotator Agreement
 
 The final IAA value for entity types was 94.08%, a high F1-measure that represents a substantial agreement between annotators. 
