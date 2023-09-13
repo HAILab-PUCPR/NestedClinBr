@@ -28,11 +28,12 @@ The final IAA value for entity types was 94.08%, a high F1-measure that represen
 ### Corpus Statistics
 Number of documents, sentences, and tokens present in NestedClinBr:
 
-Type | Training  | Test |  Total
---------- | --------- | --------- | --------- | 
-Documents | 100 | 26 | 126
-Sentences | 2,273 | 693 | 2,966
-Tokens | 17,154 | 5,310 | 22,464
+
+| Type      | Training  | Test  | Total  |
+|-----------|-----------|-------|--------|
+| Documents | 100       | 26    | 126    |
+| Sentences | 2,273     | 693   | 2,966  |
+| Tokens    | 17,154    | 5,310 | 22,464 |
 
 ### how to download the corpus
 ** We are in the process of submitting the corpus to a journal, and we will soon make it available. **
