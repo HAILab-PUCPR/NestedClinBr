@@ -10,6 +10,11 @@ In the context of clinical NLP, the recognition of entities is commonly used for
 community.
 
 ### Entities
+
+Percentage of entities:
+
+<img src="./img/entidades-nerstedclinbr.png" alt="Example" width="40%">
+
 Event types with their respective description and examples:
 
 Entity type  | Definition  | UMLS group  | Examples (free translation)
@@ -18,10 +23,6 @@ Problem |Mentions that differ from normal expected conditions, including the loc
 Treatment | Mentions relating to any procedure or intervention used to treat problems, including the dosage, in the case of drugs, and the location (body part), when available in the text. | Chemicals & Drugs, Devices, Procedures | Pacemaker, angioplasty, Enalapril 10 mg, mitral valve repair.
 Test | Used to detect and evaluate problems (such as diagnostic procedures and physical examination), also including the location (body part), when available in the text. | Phenomena, Physiology | HDL, potassium, cardiac catheterization, myocardial scintigraphy.
 Anatomy | Refers to body location, region, organ or organ component. | Anatomy | Heart valves, left hemithorax, mitral.
-
-Percentage of entities:
-
-<img src="./img/entidades-nerstedclinbr.png" alt="Example" width="50%">
 
 ### IAA - Inter-Annotator Agreement
 
