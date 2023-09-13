@@ -35,7 +35,40 @@ Number of documents, sentences, and tokens present in NestedClinBr:
 | Sentences | 2,273     | 693   | 2,966  |
 | Tokens    | 17,154    | 5,310 | 22,464 |
 
-### how to download the corpus
+Statistics of the NestedClinBr corpus:
+
+| Item      | Training   | Test      | Total     |
+|-----------|------------|-----------|-----------|
+| Problem   |            |           |           |
+| Nested    | 315 (72.92%) | 117 (27.08%) | 432     |
+| Discontinuous | 80 (65.04%) | 43 (34.96%) | 123 |
+| Total     | 1,110 (77.19%) | 328 (22.81%) | 1,438 |
+| Entity avg. length | 2.6 | 2.5 | - |
+| Treatment |            |           |           |
+| Nested    | 50 (76.92%) | 15 (23.08%) | 65 |
+| Discontinuous | 4 (100%) | 0 (0%) | 4 |
+| Total     | 761 (78.05%) | 214 (21.95%) | 975 |
+| Entity avg. length | 2.1 | 2.1 | - |
+| Test      |            |           |           |
+| Nested    | 15 (71.43%) | 6 (28.57%) | 21 |
+| Discontinuous | 0 (0%) | 0 (0%) | 0 |
+| Total     | 772 (75.98%) | 244 (24.02%) | 1,016 |
+| Entity avg. length | 1.2 | 1.3 | - |
+| Anatomy   |            |           |           |
+| Nested    | 395 (75.38%) | 129 (24.62%) | 524 |
+| Discontinuous | 5 (83.33%) | 1 (16.66%) | 6 |
+| Total     | 543 (73.58%) | 195 (26.42%) | 738 |
+| Entity avg. length | 1.4 | 1.3 | - |
+| Overall   |            |           |           |
+| Nested    | 778 (74.45%) | 267 (25.55%) | 1,045 |
+| Discontinuous | 89 (66.92%) | 44 (33.08%) | 133 |
+| Total     | 3,186 (76.46%) | 981 (23.54%) | 4,167 |
+| Percentage of entities vs ’O’ (balancing) | 30.8% | 30.1% | - |
+| Entity avg. length | 1.9 | 1.9 | - |
+| Max. tokens per sentence | 192 | 146 | - |
+
+
+### How to download the corpus
 ** We are in the process of submitting the corpus to a journal, and we will soon make it available. **
 
 ### How to cite
