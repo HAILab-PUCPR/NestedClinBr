@@ -21,13 +21,13 @@ Anatomy | Refers to body location, region, organ or organ component. | Anatomy |
 
 Percentage of entities:
 
-<img src="./img/entidades-nerstedclinbr.png" alt="Example" width="80%">
+<img src="./img/entidades-nerstedclinbr.png" alt="Example" width="50%">
 
 ### IAA - Inter-Annotator Agreement
 
 The final IAA value for entity types was 94.08%, a high F1-measure that represents a substantial agreement between annotators. 
 
-<img src="./img/iaa-nestedclinbr.png" alt="Inter-Annotator Agreement" width="30%">
+<img src="./img/iaa-nestedclinbr.png" alt="Inter-Annotator Agreement" width="40%">
 
 ### Corpus Statistics
 Number of documents, sentences, and tokens present in NestedClinBr:
