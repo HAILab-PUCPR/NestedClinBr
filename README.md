@@ -44,22 +44,22 @@ Statistics of the NestedClinBr corpus:
 | Discontinuous | 80 (65.04%) | 43 (34.96%) | 123 |
 | Total     | 1,110 (77.19%) | 328 (22.81%) | 1,438 |
 | Entity avg. length | 2.6 | 2.5 | - |
-|Treatment |
+|Treatment |-|-|-|
 | Nested    | 50 (76.92%) | 15 (23.08%) | 65 |
 | Discontinuous | 4 (100%) | 0 (0%) | 4 |
 | Total     | 761 (78.05%) | 214 (21.95%) | 975 |
 | Entity avg. length | 2.1 | 2.1 | - |
-|Test|
+|Test |-|-|-|
 | Nested    | 15 (71.43%) | 6 (28.57%) | 21 |
 | Discontinuous | 0 (0%) | 0 (0%) | 0 |
 | Total     | 772 (75.98%) | 244 (24.02%) | 1,016 |
 | Entity avg. length | 1.2 | 1.3 | - |
-|Anatomy|
+|Anatomy |-|-|-|
 | Nested    | 395 (75.38%) | 129 (24.62%) | 524 |
 | Discontinuous | 5 (83.33%) | 1 (16.66%) | 6 |
 | Total     | 543 (73.58%) | 195 (26.42%) | 738 |
 | Entity avg. length | 1.4 | 1.3 | - |
-|Overall|
+|Overall |-|-|-|
 | Nested    | 778 (74.45%) | 267 (25.55%) | 1,045 |
 | Discontinuous | 89 (66.92%) | 44 (33.08%) | 133 |
 | Total     | 3,186 (76.46%) | 981 (23.54%) | 4,167 |
