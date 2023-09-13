@@ -1,6 +1,6 @@
 # NestedClinBr
 
-<img src="./img/cap6_brat.png" alt="Example">
+<img src="./img/cap6_brat.png" alt="Example" width="80%">
 
 NestedClinBr is a new corpus containing nested and discontinuous entities in Brazilian Portuguese clinical narratives.
 
@@ -18,6 +18,12 @@ Problem |Mentions that differ from normal expected conditions, including the loc
 Treatment | Mentions relating to any procedure or intervention used to treat problems, including the dosage, in the case of drugs, and the location (body part), when available in the text. | Chemicals & Drugs, Devices, Procedures | Pacemaker, angioplasty, Enalapril 10 mg, mitral valve repair.
 Test | Used to detect and evaluate problems (such as diagnostic procedures and physical examination), also including the location (body part), when available in the text. | Phenomena, Physiology | HDL, potassium, cardiac catheterization, myocardial scintigraphy.
 Anatomy | Refers to body location, region, organ or organ component. | Anatomy | Heart valves, left hemithorax, mitral.
+
+### IAA - Inter-Annotator Agreement
+
+The final IAA value for entity types was 94.08%, a high F1-measure that represents a substantial agreement between annotators. 
+
+<img src="./img/iaa-nestedclinbr.png" alt="Inter-Annotator Agreement" width="80%">
 
 ** We are in the process of submitting the corpus to a journal, and we will soon make it available. **
 
