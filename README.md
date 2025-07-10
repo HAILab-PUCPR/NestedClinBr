@@ -75,7 +75,7 @@ Statistics of the NestedClinBr corpus:
 
 ## How to download the corpus
 
-Please visit the [data/brat-files](https://github.com/HAILab-PUCPR/NestedClinBr/data/brat-files) section of this repository to access the original corpus (NestedClinBr)  in BRAT format.
+Please visit the [data/brat-files](https://github.com/HAILab-PUCPR/NestedClinBr/tree/main/data/brat-files) section of this repository to access the original corpus (NestedClinBr)  in BRAT format.
 
 To visualize and edit the annotations, consider installing the [BRAT annotation tool](http://brat.nlplab.org/). This tool allows you to explore nested and discontinuous entities in a user-friendly web interface.
 
