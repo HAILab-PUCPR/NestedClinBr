@@ -4,8 +4,6 @@
 
 - [About NestedClinBr](#nestedclinbr)
 - [Entities](#entities)
-  - [Entity Distribution](#percentage-of-entities)
-  - [Entity Definitions](#event-types-with-their-respective-description-and-examples)
 - [IAA - Inter-Annotator Agreement](#iaa---inter-annotator-agreement)
 - [Corpus Statistics](#corpus-statistics)
 - [How to Download the Corpus](#how-to-download-the-corpus)
