@@ -1,5 +1,18 @@
 # NestedClinBr
 
+## 📌 Table of Contents
+
+- [About NestedClinBr](#nestedclinbr)
+- [Entities](#entities)
+  - [Entity Distribution](#percentage-of-entities)
+  - [Entity Definitions](#event-types-with-their-respective-description-and-examples)
+- [IAA - Inter-Annotator Agreement](#iaa---inter-annotator-agreement)
+- [Corpus Statistics](#corpus-statistics)
+- [How to Download the Corpus](#how-to-download-the-corpus)
+- [Contributors](#contributors)
+- [How to Cite](#how-to-cite)
+
+
 <img src="./img/cap6_brat.png" alt="Example" width="80%">
 
 NestedClinBr is a new corpus containing nested and discontinuous entities in Brazilian Portuguese clinical narratives.
