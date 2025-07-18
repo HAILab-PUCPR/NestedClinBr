@@ -79,6 +79,14 @@ Please visit the [data/brat-files](https://github.com/HAILab-PUCPR/NestedClinBr/
 
 To visualize and edit the annotations, consider installing the [BRAT annotation tool](http://brat.nlplab.org/). This tool allows you to explore nested and discontinuous entities in a user-friendly web interface.
 
+## Contributors 
+
+- Claudia Moro 
+- Elisa Terumi Rubel Schneider
+- Emerson Cabrera Paraiso
+- Paloma Martínez
+- Yohan Bonescki Gumiel
+
 ## How to cite
 
 *** soon *** 
