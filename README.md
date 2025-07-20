@@ -90,6 +90,8 @@ Please visit the [data/brat-files](https://github.com/HAILab-PUCPR/NestedClinBr/
 
 To visualize and edit the annotations, consider installing the [BRAT annotation tool](http://brat.nlplab.org/). This tool allows you to explore nested and discontinuous entities in a user-friendly web interface.
 
+Hugging Face: [https://huggingface.co/datasets/pucpr-br/nestedclinbr](https://huggingface.co/datasets/pucpr-br/nestedclinbr)
+
 ## Contributors 
 
 - Claudia Moro 
